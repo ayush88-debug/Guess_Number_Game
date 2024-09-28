@@ -4,7 +4,7 @@ A simple number guessing game built with **HTML**, **CSS**, and **JavaScript**. 
 
 ## Demo
 
-[Live Demo]()
+[Live Demo](https://ayush88-debug.github.io/Guess_Number_Game/)
 
 ## Features
 
